@@ -11,5 +11,8 @@ body{
 }
 .a{
     color: rgb(100,100,100);
-    font-size: 40px;
+    font-size: 4em;
+}
+img{
+    background-color: darkseagreen;
 }
