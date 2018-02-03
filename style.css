@@ -12,7 +12,25 @@ body{
 .a{
     color: rgb(100,100,100);
     font-size: 4em;
+	width: 300px;
+    border: 25px solid green;
+    padding: 25px;
+    margin: 25px;
 }
 img{
     background-color: darkseagreen;
+}
+
+.bb{
+	box-sizing: border-box;
+	width:200px;
+	margin:10px;
+	border:solid yellow 4px
+}
+
+.cb{
+	width:200px;
+	margin:10px;
+	padding:10px;
+	border:solid white 4px
 }
